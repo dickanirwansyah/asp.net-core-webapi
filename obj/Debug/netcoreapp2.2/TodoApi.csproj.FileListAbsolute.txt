@@ -1,0 +1,14 @@
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/dickaspring/file-dotnet/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
